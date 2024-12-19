@@ -8,6 +8,7 @@
 
 * ⭐ **[Blender](https://www.blender.org/)**
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)**
+* [Goo Engine](https://www.dillongoostudios.com/tech) - Anime Blender Mod
 * ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
 
 [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [POV-Ray](https://www.povray.org/), [Vectary](https://www.vectary.com/), [Art of Illusion](https://aoi.sourceforge.net/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/), [Womp](https://beta.womp.com/)
@@ -148,8 +149,9 @@
 ## Background Removers
 
 * ⭐ **[Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)**
+* ⭐ **[remove.bg](https://www.remove.bg/)**
 
-[remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [BGBye](https://bgbye.fyrean.com/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy),  [ormbg](https://huggingface.co/spaces/schirrmacher/ormbg), [pixelcut](https://www.pixelcut.ai/)
+[RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [BGBye](https://bgbye.fyrean.com/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy),  [ormbg](https://huggingface.co/spaces/schirrmacher/ormbg), [pixelcut](https://www.pixelcut.ai/)
 
 ### Object Removers
 
@@ -253,7 +255,7 @@
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** CSS Frameworks Index
 * 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
-* ⭐ **[Tailwind CSS](https://tailwindcss.com/)** - CSS Framework
+* ⭐ **[Tailwind CSS](https://tailwindcss.com/)** or [UnoCSS](https://unocss.dev/) - CSS Framework
 * [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
 * [Tailsc](https://tailsc.com/), [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
@@ -290,6 +292,14 @@
 * ⭐ **[Arts and Culture](https://artsandculture.google.com/)**
 
 [Painting Index](https://index-of.eu/Paintings/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Haltadefinizione](https://www.haltadefinizione.com/en/), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](https://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6), [The Watercolour World](https://www.watercolourworld.org/), [Museo](https://museo.app/), [Arthur](https://arthur.io/), [WGA](https://www.wga.hu/), [Gallerix](https://gallerix.org/), [WikiArt](https://www.wikiart.org/), [Public Work](https://public.work/)
+
+***
+
+## Digital Brushes
+
+* ⭐ **[ART Library](https://t.me/+7Mztd4kkHFowNDQ6)**
+
+[brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](https://wowbrushes.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/), [tala](https://t.me/tala_photoshop_brushes)
 
 ***
 
@@ -695,8 +705,6 @@
 ***
 
 ## Multireddits
-
-* ⭐ **[Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all)**
 
 [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/) / [4](https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/), [Random](https://www.reddit.com/user/nbatman/m/random/) / [2](https://www.reddit.com/user/nbatman/m/random2/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/), [Piracy Leaks](https://www.reddit.com/user/nbatman/m/leaks/), [News](https://www.reddit.com/user/nbatman/m/news/), [Tech](https://www.reddit.com/user/goretsky/m/win_itpro/), [Left](https://www.reddit.com/user/nbatman/m/left/) / [2](https://www.reddit.com/user/nbatman/m/left_2/), [Mysteries](https://www.reddit.com/user/nbatman/m/mysteries/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Minimalism](https://www.reddit.com/user/rainbowlemon/m/minimalist_lifestyle/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/), [Text Only](https://www.reddit.com/user/aokaga/m/stories), [Chess](https://www.reddit.com/user/korfor/m/chess/), [Engineering](https://www.reddit.com/user/nbatman/m/engineering/)
 
@@ -1152,7 +1160,6 @@
 * ⭐ **[CouponScorpion](https://couponscorpion.com/)**
 * [Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - Auto Course Enrollment
 * [GUdemyBot](https://t.me/GUdemyBot), [UdemyBot](https://github.com/gautamajay52/UdemyBot) or [UdemyPy](https://github.com/dylannalex/UdemyPy) - Udemy Course Bots
-* [Giga Course](https://gigacourse.com/) - Udemy Courses / Torrent
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 
