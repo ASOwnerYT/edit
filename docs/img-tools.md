@@ -21,7 +21,7 @@
 
 ## ▷ Editing Software
 
-* ⭐ **[Photoshop](https://w14.monkrus.ws/)** - Use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) + [Client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)
+* ⭐ **[m0nkrus](https://monkrus.dvuzu.com/)** / [2](https://vk.com/m0nkrus) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb)
 * ⭐ **[GIMP](https://www.gimp.org/)**
 * ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)
 * ⭐ **[Pinta Project](https://www.pinta-project.com/)**
@@ -164,6 +164,7 @@
 
 ## ▷ Painting
 
+* 🌐 **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
 * ⭐ **[Krita](https://krita.org/en/)** - Painting App
 * ⭐ **Krita Tools** - [Custom Backend](https://github.com/Interpause/auto-sd-paint-ext) / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Forums](https://krita-artists.org/)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting
@@ -179,7 +180,6 @@
 * [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting
 * [Mixbox Painter](https://scrtwpns.com/mixbox/painter/) - Realistic Paint Mixing
 * [Vervette](https://www.taron.de/Vervette/sandbox/) - Realistic Fluid Painting
-* [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](https://wowbrushes.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) or [tala](https://t.me/tala_photoshop_brushes) - Digital Art Brushes
 
 ***
 
@@ -380,7 +380,6 @@
 * [Freeject](https://www.freeject.net/)
 * [Cg_peers](https://t.me/Cg_peers)
 * [PNGTree](https://pngtree.com/)
-* [NitroGFX](https://nitrogfx.pro/)
 * [TianUI](https://www.titanui.com/)
 * [Designer Candies](https://designercandies.net/category/freebies/)
 * [GraphixTree](https://graphixtree.com/)
@@ -738,6 +737,7 @@
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
 * [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Unlimited Google Photos Storage Guide
+* [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
 
 ***
 
@@ -753,6 +753,7 @@
 * [FreeImage.Host](https://freeimage.host/)
 * [imgbox](https://imgbox.com/)
 * [vgy](https://vgy.me/)
+* [⁠PixVid](https://pixvid.org/)
 * [Catimage](https://catimages.org/)
 * [i](https://tikolu.net/i/)
 * [tixte](https://tixte.com/)

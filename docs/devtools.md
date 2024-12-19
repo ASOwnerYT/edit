@@ -259,6 +259,7 @@
 * [SemanticDiff](https://app.semanticdiff.com/) - Review Pull Requests using Language Aware Diff
 * [StarGrab](https://github.com/zekroTJA/stargrab) - Mirror GitHub Repositories
 * [Repo2Txt](https://github.com/abinthomasonline/repo2txt) - Convert Repos to Text Formatted Files
+* [Git ingest](https://gitingest.com/) - Convert Repos to Prompt-Friendly Text
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
 * [Nightly.link](https://nightly.link/) - GitHub Sharable Nightly Links
@@ -363,6 +364,7 @@
 * [VidSrc.in](https://vidsrc.in/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.me/), [5](https://vidsrc.pm/), [6](https://vidsrc.net), [7](https://vidsrc.to/), [8](https://vidsrc.io/) - Movies / TV / Anime / API
 * [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
+* [111movies](https://111movies.com/)
 * [Embed.su](https://embed.su/) - Movies / TV / Anime / API
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
@@ -474,8 +476,8 @@
 # ► IDEs / Code Editors
 
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_text_editors_.2F_notes)**
-* ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor
-* ⭐ **[JetBrains](https://jetbrains.com/)** - [License Server](https://github.com/crazy-max/docker-jetbrains-license-server) / [Free Method](https://rentry.co/FMHYBase64#jetbrain-ide) / [Trial Reset](https://rentry.co/FMHYBase64#jetbrains-reset)
+* ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [MS Extension Marketplace](https://rentry.co/vscodiumguide)
+* ⭐ **[JetBrains](https://jetbrains.com/)** - [License Server](https://github.com/crazy-max/docker-jetbrains-license-server) / [Free Method](https://rentry.co/FMHYBase64#jetbrain-ide)
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Docs](https://emacsdocs.org/) / [Resources](https://github.com/emacs-tw/awesome-emacs)
@@ -650,18 +652,13 @@
 
 * 🌐 **[Awesome Python](https://awesome-python.com/)** - Python Resources
 * ⭐ **[Automate The Boring Stuff](https://automatetheboringstuff.com/)** - Python Automation Book
-* ⭐ **[Ruff](https://docs.astral.sh/ruff/)** - Python Linter / [GitHub](https://github.com/astral-sh/ruff)
 * [memlayout](https://memlayout.com/) - Python Code Visualization
 * [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheets
-* [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Python GUI
 * [Python Patterns](https://python-patterns.guide/) - Python Design Patterns
 * [Clean Code Python](https://github.com/zedr/clean-code-python) - Clean Up Python Code
-* [pipx](https://pipx.pypa.io) - Execute Python Binaries in Isolated Environments
 * [RustPython](https://rustpython.github.io/) - Python Interpreter
-* [pipxu](https://github.com/bulletmark/pipxu) - Install / Run Python Apps in Isolated Environments
 * [Thonny](https://thonny.org/) - Python IDE
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
-* [Gooey](https://github.com/chriskiehl/Gooey) - Convert Python CLI Apps into GUI Apps
 
 ***
 
@@ -816,7 +813,7 @@
 * [LDRS](https://uiball.com/ldrs/) - Loading Animations
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
-* [Shuttle](https://www.shuttle.rs/) - Open-Source Backend Platforms
+* [Shuttle](https://www.shuttle.rs/) or [PocketBase](https://github.com/pocketbase/pocketbase) - Open-Source Backend Platforms
 * [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Caddy](https://caddyserver.com/) - Web Server
